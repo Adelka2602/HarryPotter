@@ -2,9 +2,7 @@
  body {
     font: 14px Arial, Helvetica, sans-serif; /* Рубленый шрифт текста */
     /*margin: 50;  Отступы на странице */
-/* Местоположение фоновой картинки */   background-image: url(C:\Users\Эдилэм\Desktop\Harry Potter\1.jpg);      
-/* Это свойство заставляет фон менять масштаб при изменении размеров содержащего его контейнера*/   background-size: cover;      
-  
+
    }
    h1 {
     font-size: 36px; /* Размер шрифта заголовка шапки */
