@@ -1,63 +1,58 @@
-
  body {
-    font: 14px Arial, Helvetica, sans-serif; /* Рубленый шрифт текста */
-    /*margin: 50;  Отступы на странице */
-/* Местоположение фоновой картинки */   background-image: url(C:\Users\Эдилэм\Desktop\Harry Potter\1.jpg);      
-/* Это свойство заставляет фон менять масштаб при изменении размеров содержащего его контейнера*/   background-size: cover;      
-   
-   }
+font: 14px Arial, Helvetica, sans-serif; /*Рубленый шрифт текста */
+/*margin: 50; Отступы на странице */
 
-   h1 {
-    font-size: 36px; /* Размер шрифта заголовка шапки */
-    margin: 10; /* Убираем отступы */
-	 text-align: center;
-    color: #000000; /* Цвет текста заголовка шапки */
-	
-   }
-   h2 {
-    margin-top: 5; /* Убираем отступ сверху */
-   }
-   .header {/* вверхний */
-    background: #FFEFD5; /* Цвет фона шапки */
-    padding: 10px; /* Поля вокруг текста */
-	border: 3px solid #333; /* Рамка вверхнего меню */
-	margin-top: 80px;
-	margin-left: 80px;
-	margin-right: 80px;
-	margin-bottom:10px;
-   }
-   .sidebar {/* правый */
-    float: right; /* Обтекание справа */
-    border: 3px solid #333; /* Рамка правого меню */
-    width: 37.5%; /* Ширина правой колонки */
-    padding: 10px; /* Поля внутри блока */
-	 background: #FFFAFA;
-    margin-top: 0px;
-	margin-left: 80px;
-	margin-right: 80px;
-	margin-bottom:10px;
-   }
-   .content {/* левый */
-    background: #FFFAFA;
-    margin: 10px 45% 10px 80px; /* Значения отступа от правого блока */
-    padding: 10px; /* Поля внутри блока */
-    border: 3px solid #333; /* Рамка контента */
 }
+h1 {
+font-size: 36px; /* Размер шрифта заголовка шапки */
+margin: 10; /* Убираем отступы */
+text-align: center;
+color: #000000; /* Цвет текста заголовка шапки */
 
-   }
-   .footer {/* нижний */
-    background:#FFEFD5; /* Цвет фона подвал (футера) */
-    padding: 5px; /* Поля внутри блока */
-	border: 3px solid #333; /* Рамка контента */
-	margin-top: 10px;
-	margin-left: 80px;
-	margin-right: 80px;
-	margin-bottom:10px;
-	 text-align: center;
-    color: #00000; /* Цвет текста футера */
-    clear: left; /* Отменяем действие float */
-   }
-   .fig {
-      float:right;
-   }
+}
+h2 {
+margin-top: 5; /* Убираем отступ сверху */
+}
+.header {/* вверхний */
+background: #FFEFD5; /* Цвет фона шапки */
+padding: 10px; /* Поля вокруг текста */
+border: 3px solid #333; /* Рамка вверхнего меню */
+margin-top: 80px;
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom:10px;
+}
+.sidebar {/* правый */
+float: right; /* Обтекание справа */
+border: 3px solid #333; /* Рамка правого меню */
+width: 37.5%; /* Ширина правой колонки */
+padding: 10px; /* Поля внутри блока */
+background: #FFFAFA;
+margin-top: 0px;
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom:10px;
+}
+.content {/* левый */
+background: #FFFAFA;
+margin: 10px 45% 10px 80px; /* Значения отступа от правого блока */
+padding: 10px; /* Поля внутри блока */
+border: 3px solid #333; /* Рамка контента */
 
+}
+.footer {/* нижний */
+background:#FFEFD5; /* Цвет фона подвал (футера) */
+padding: 5px; /* Поля внутри блока */
+border: 3px solid #333; /* Рамка контента */
+margin-top: 10px;
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom:10px;
+text-align: center;
+color: #00000; /* Цвет текста футера */
+clear: left; /* Отменяем действие float */
+}
+.fig {
+float:right;
+}
+ 
