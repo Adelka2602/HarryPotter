@@ -35,7 +35,7 @@ body {
    }
    .content {/* левый */
     background: #FFFAFA;
-    margin: 10px 45% 10px 80px; /* Значения отступа от правого блока */
+    margin: 10px 65% 10px 80px; /* Значения отступа от правого блока */
     padding: 10px; /* Поля внутри блока */
     border: 3px solid #333; /* Рамка контента */
 	
