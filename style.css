@@ -60,3 +60,16 @@
    .fig {
       float:right;
    }
+.container{
+   background:#FFEFD5; /* Цвет фона подвал (футера) */
+    padding: 5px; /* Поля внутри блока */
+	border: 3px solid #333; /* Рамка контента */
+	margin-top: 10px;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom:10px;
+	 text-align: center;
+    color: #00000; /* Цвет текста футера */
+    clear: left; /* Отменяем действие float *
+}
+   
