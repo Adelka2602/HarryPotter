@@ -22,6 +22,15 @@ margin-left: 80px;
 margin-right: 80px;
 margin-bottom:10px;
 }
+.next {/* вверхний нижний */
+background: #FFEFD5; /* Цвет фона шапки */
+padding: 10px; /* Поля вокруг текста */
+border: 3px solid #333; /* Рамка вверхнего меню */
+margin-top: 80px;
+margin-left: 80px;
+margin-right: 80px;
+margin-bottom:10px;
+}
 .sidebar {/* правый */
 float: right; /* Обтекание справа */
 border: 3px solid #333; /* Рамка правого меню */
