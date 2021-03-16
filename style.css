@@ -93,15 +93,7 @@ padding: 10px; /* Поля внутри блока */
 border: 3px solid #333; /* Рамка контента */
 
 }
-.qqq{
- background: #FFEFD5; /* Цвет фона шапки */
-padding: 10px; /* Поля вокруг текста */
-border: 3px solid #333; /* Рамка вверхнего меню */
-margin-top: 10px;
-margin-left: 80px;
-margin-right: 80px;
-margin-bottom:10px;
-}
+
 .footer {/* нижний */
 background:#FFEFD5; /* Цвет фона подвал (футера) */
 padding: 5px; /* Поля внутри блока */
