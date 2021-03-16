@@ -18,7 +18,7 @@ ul {
   background:#FFFAFA5; /*добавляем фон всему меню*/
   height: 50px; /*задаем высоту*/
 }
-a {
+b {
   text-decoration: none; /*убираем подчеркивание текста ссылок*/
   background:#819A32 /*добавляем фон к пункту меню*/
   color:#fff; /*меняем цвет ссылок*/
@@ -32,7 +32,7 @@ a {
   -webkit-transition: all 0.3s 0.01s ease;
 
 }
-a:hover {
+b:hover {
   background:#D43737;/*добавляем эффект при наведении*/
 }
 li {
