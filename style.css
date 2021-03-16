@@ -31,6 +31,7 @@ a {
   line-height:50px; /*ровняем меню по вертикали*/
   display: block; 
   border-right: 1px solid #FFEFD5; /*добавляем бордюр справа*/
+  border-leght: 1px solid #FFEFD5;
   -moz-transition: all 0.3s 0.01s ease; /*делаем плавный переход*/
   -o-transition: all 0.3s 0.01s ease;
   -webkit-transition: all 0.3s 0.01s ease;
