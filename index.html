@@ -23,9 +23,15 @@
     <li><a href="#">Контакты</a></li>
 </ul>
     </div>
-<div class="sidebar">
+<div id="sidebar">
 <p><a href="https://ru.wikipedia.org/wiki/Гарри_Поттер_(серия_фильмов)" >Википедия</a></p>
 <p><a href="https://harrypotter.fandom.com/ru/wiki/Гарри_Поттер">История</a></p>
+    <h1> Какой ваш любимый персонаж?<h1>
+        <form onsubmit="localStorage.setItem('data',document.getElementById('select').value);">
+            <p>
+                <textarea id="select" size="15" cols="40" rows="1"></texrarea></p>
+            <p><input type="submit" value="Сохранить"></p>
+        </form>
 </div>
 <div class="content">
 
@@ -65,8 +71,7 @@
 «Почему ты еще жив?» – «Потому что мне есть ради чего жить!» –** Волан-де-Морт и Гарри Поттер.**
 </p>
 </div>
-    <div class="qqq">2222222222222222222222
-    </div>
+
 <div class="footer">))))</div>
 </body>
 </html>
