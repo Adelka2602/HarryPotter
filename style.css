@@ -32,7 +32,7 @@ ul {
   -webkit-transition: all 0.3s 0.01s ease;
 
 }
-b:hover {
+c:hover {
   background:#D43737;/*добавляем эффект при наведении*/
 }
 li {
