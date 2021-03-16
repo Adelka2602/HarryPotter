@@ -35,9 +35,7 @@ a {
   -o-transition: all 0.3s 0.01s ease;
   -webkit-transition: all 0.3s 0.01s ease;
 }
-a:hover {
-  background:#D43737;/*добавляем эффект при наведении*/
-}
+
 li {
   float:left; /*Размещаем список горизонтально для реализации меню*/
   position:relative; /*задаем позицию для позиционирования*/
